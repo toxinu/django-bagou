@@ -16,7 +16,7 @@ else:
     from urlparse import urlparse
 
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 logging.basicConfig()
 logger = logging.getLogger('bagou.general')
