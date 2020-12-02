@@ -1,0 +1,4 @@
+.. _authentication:
+
+Configuration
+=============
